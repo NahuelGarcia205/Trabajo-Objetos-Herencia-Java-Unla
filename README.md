@@ -1,6 +1,6 @@
 # Trabajo Práctico - Herencia y Polimorfismo en Java
 
-Trabajo práctico desarrollado para la materia **Programación Orientada a Objetos I** de la **Universidad Nacional de Lanús (UNLa)**.
+Trabajo de desarrollado para la materia **Programación Orientada a Objetos I** de la **Universidad Nacional de Lanús (UNLa)**.
 
 ## Descripción
 
@@ -43,5 +43,10 @@ Nahuel Garcia
 Estudiante de Licenciatura en Sistemas - UNLa
 
 ## Diagrama UML
+
+El siguiente diagrama representa la estructura de clases y las relaciones principales del sistema, incluyendo herencia, clases abstractas y asociaciones entre entidades.
+
+![Diagrama UML](docs/uml-clases.png)
+
 
 ![Diagrama UML](docs/Uml-clases.png)

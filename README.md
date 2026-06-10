@@ -46,4 +46,9 @@ Estudiante de Licenciatura en Sistemas - UNLa
 
 El siguiente diagrama representa la estructura de clases y las relaciones principales del sistema, incluyendo herencia, clases abstractas y asociaciones entre entidades.
 
-![Diagrama UML](docs/Uml-clases.png)
+<details>
+<summary>Ver UML</summary>
+
+![UML](docs/Uml-clases.png)
+
+</details>

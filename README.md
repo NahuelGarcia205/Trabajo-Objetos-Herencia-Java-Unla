@@ -41,3 +41,7 @@ Desarrollar una solución aplicando los principios de la Programación Orientada
 
 Nahuel Garcia
 Estudiante de Licenciatura en Sistemas - UNLa
+
+## Diagrama UML
+
+![Diagrama UML](docs/Uml-clases.png)
